@@ -16,13 +16,13 @@ WHERE country LIKE '%n' AND
 	
 
 
-/* 3
+/* 3 */
 
 SELECT title
 FROM film
 WHERE title ILIKE '%T%T%T%T%' 
 
-*/
+
 
 /* 4 */
 
